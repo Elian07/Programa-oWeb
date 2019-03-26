@@ -194,32 +194,71 @@
     font-weight: 900
    }
 
+   #schedules{
+    position: absolute;
+    font-size: 20px;
+    left: 110px;
+    top: 470px;
+    color: white;
+    font-weight: 900
+   }
+
    #face{
     position: relative;
-    height:3px;
-    width: 30x;
-   
-    left: 300 px;
-    top: 200px;
+    height:38px;
+    width: 38x;
+    left: 30 px;
+    top: 10px;
    }
    #insta{
     position: relative;
-    height: 20px;
-    width: 20px;
-    border-radius: 40px;
-    -moz-border-radius: 28;
-    -webkit-border-radius: 28;
-    left: 300px;
-    top: 220px;
+    height: 50px;
+    width: 50px;
+    left: 20px;
+    top: 15px;
    }
    #linkedin{
     position: relative;
-    height:70px;
-    width: 100px;
-    border-radius: 40px;
-    -moz-border-radius: 28;
-    -webkit-border-radius: 28;
-    left: 300px;
-    top: 240px;
+    height:40px;
+    width: 40px;
+    left: 30px;
+    top: 10px;
+   }
+   #start{
+    width: 60px;
+    
+   }
+
+   #term{
+    width: 80px;
+    
+   }
+
+   #mond{
+    width: 120px;
+
    }
    
+   #tued{
+    width: 120px;
+   }
+
+   #wedn{
+    width: 120px;
+   }
+
+   #thur{
+    width: 120px;
+   }
+
+   #frid{
+    width: 120px;
+   }
+
+   #cols{
+     left: 20px;
+   }
+   
+   #table{
+      border-collapse: collapse; 
+   }  

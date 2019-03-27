@@ -58,9 +58,9 @@
   border-radius: 40px;
   -moz-border-radius: 28;
   -webkit-border-radius: 28;
+  border:4px solid#FFFAFA;
   left: 55px;
   top: 30px;
-  border:4px solid#FFFAFA;
 }
 
 #page{
@@ -73,7 +73,7 @@
   position: absolute;
   font-size: 40px;
   left: 750px;
-  top:10px;
+  top:-15px;
   color: darkslategray;
 }
 
@@ -90,7 +90,7 @@
      width: 300px;
     left:400px;
     font-size: 25px;
-    top: 100px;
+    top: 50px;
     color: grey;
    }
 
@@ -99,7 +99,7 @@
     width: 1200px;
     left:400px;
     font-size: 15px;
-    top: 150px;
+    top: 100px;
     color:grey;
   }
 
@@ -108,7 +108,7 @@
     width: 300px;
     left:400px;
     font-size: 25px;
-    top: 220px;
+    top: 180px;
     color:grey;
   }
 
@@ -117,7 +117,7 @@
     width: 1200px;
     left:400px;
     font-size: 15px;
-    top: 270px;
+    top: 230px;
     color:grey;
   }
 
@@ -126,7 +126,7 @@
     width: 300px;
     left:400px;
     font-size: 25px;
-    top: 395px;
+    top: 390px;
     color:grey;
   }
 
@@ -134,27 +134,27 @@
   #line3{
     position: absolute;
     width: 1200px;
-    left:400px;
+    left:410px;
     font-size: 15px;
-    top: 445px;
+    top: 440px;
     color:grey;
   }
 
   #col4{
     position: absolute;
     width: 300px;
-    left:400px;
+    left:60px;
     font-size: 25px;
     top: 520px;
-    color:grey;
+    color: white;
   }
  
   #line4{
     position: absolute;
     width: 1200px;
-    left:400px;
+    left:60px;
     font-size: 15px;
-    top: 570px;
+    top: 560px;
     color:grey;
   }
 
@@ -170,7 +170,7 @@
    #phone{
     position: absolute;
     font-size: 20px;
-    left: 80px;
+    left: 65px;
     top: 255px;
     color: white;
     font-weight: 900
@@ -205,60 +205,30 @@
 
    #face{
     position: relative;
-    height:38px;
-    width: 38x;
-    left: 30 px;
-    top: 10px;
+    height:50px;
+    width: 50x;
+    left: 25 px;
+    top: -30px;
    }
    #insta{
     position: relative;
     height: 50px;
     width: 50px;
-    left: 20px;
-    top: 15px;
+    left: 15px;
+    top: -30px;
    }
    #linkedin{
     position: relative;
-    height:40px;
-    width: 40px;
-    left: 30px;
-    top: 10px;
-   }
-   #start{
-    width: 60px;
-    
+    height:50px;
+    width: 50px;
+    left: 25px;
+    top: -30px;
    }
 
-   #term{
-    width: 80px;
-    
-   }
-
-   #mond{
-    width: 120px;
-
-   }
+  
+   table{  
+    text-align: center;
    
-   #tued{
-    width: 120px;
-   }
-
-   #wedn{
-    width: 120px;
-   }
-
-   #thur{
-    width: 120px;
-   }
-
-   #frid{
-    width: 120px;
-   }
-
-   #cols{
-     left: 20px;
-   }
+    }
+    
    
-   #table{
-      border-collapse: collapse; 
-   }  

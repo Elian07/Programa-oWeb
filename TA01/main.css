@@ -200,7 +200,7 @@
     left: 110px;
     top: 470px;
     color: white;
-    font-weight: 900
+    font-weight: 900;
    }
 
    #face{
@@ -232,3 +232,14 @@
     }
     
    
+
+
+
+
+    #fachada{
+  
+      width: 99%;
+      height: 97%;
+       position: absolute;
+       border: none;
+   }
